@@ -54,6 +54,8 @@
 h5 {
     font-size: 10pt;
     font-weight: bold;
+    align-content: space-around;
+    margin-top: 30px;
 }
 
 p {
@@ -70,6 +72,7 @@ p {
 
 .contact-footer h5 {
     color: #FFF;
+    
 }
 
 .contact-footer h2 {
@@ -79,5 +82,4 @@ p {
 .address-cities {
     background-color: black;
     height: 420px;
-    background-position: center;
 }
