@@ -1,0 +1,83 @@
+.mynav {
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
+    height: 1400px;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+}
+
+.navbar {
+    background-color: transparent !important;
+}
+
+.navbar, .navbar-brand {
+    color: #FFF !important;
+    margin: 0 auto;
+}
+
+.collapse .navbar-collapse {
+    color: #fff !important;
+}
+
+.logos {
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg);
+    height: 180px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+}
+
+.work-options {
+    font-family: Times;
+    align-content: space-around;
+    text-align: center;
+    background-color: rgb(235, 232, 234);
+    background-size: auto;
+}
+
+.reviews {
+    align-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.reviews h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 20pt;
+
+}
+
+h5 {
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+p {
+    font-size: 10pt;
+    font-style: italic;
+}
+
+.contact-footer {
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg);
+    height: 400px;
+    background-position: center;
+    align-content: space-around;
+}
+
+.contact-footer h5 {
+    color: #FFF;
+}
+
+.contact-footer h2 {
+    color: #FFF;
+}
+
+.address-cities {
+    background-color: black;
+    height: 420px;
+    background-position: center;
+}
